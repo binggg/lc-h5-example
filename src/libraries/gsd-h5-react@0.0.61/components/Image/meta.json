@@ -1,0 +1,12 @@
+{
+  "title": "Image",
+  "desc": "图片组件",
+  "category": "媒体组件",
+  "categoryOrder": 600,
+  "platforms": {
+    "mp": {
+      "tagName": "image"
+    }
+  }
+}
+

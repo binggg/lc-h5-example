@@ -1,0 +1,10 @@
+{
+  "title": "ad",
+  "desc": "微信Banner广告组件",
+  "category": "开放能力",
+  "platforms": {
+    "mp": {
+      "tagName": "ad"
+    }
+  }
+}

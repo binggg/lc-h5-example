@@ -1,0 +1,12 @@
+{
+  "title": "Container",
+  "desc": "视图容器",
+  "category": "视图容器",
+  "categoryOrder": 1000,
+  "componentOrder": 1000,
+  "platforms": {
+    "mp": {
+      "tagName": "view"
+    }
+  }
+}

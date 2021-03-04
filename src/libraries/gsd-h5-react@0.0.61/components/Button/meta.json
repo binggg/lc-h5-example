@@ -1,0 +1,12 @@
+{
+  "title": "Button",
+  "desc": "按钮组件",
+  "category": "表单组件",
+  "categoryOrder": 800,
+  "componentOrder": 1000,
+  "platforms": {
+    "mp": {
+      "tagName": "button"
+    }
+  }
+}

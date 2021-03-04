@@ -1,0 +1,22 @@
+.g-upload {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.g-upload-btn {
+    width: 150rpx;
+    font-size: 28rpx;
+    padding: 0 10rpx;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 4rpx;
+    box-sizing: border-box;
+    background-color: #DDD;
+}
+
+.g-upload-content {
+    flex: 1;
+    font-size: 26rpx;
+    margin-left: 10rpx;
+}

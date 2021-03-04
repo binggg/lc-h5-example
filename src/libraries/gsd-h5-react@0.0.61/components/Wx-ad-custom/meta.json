@@ -1,0 +1,10 @@
+{
+  "title": "ad-custom",
+  "desc": "原生模板 广告",
+  "category": "开放能力",
+  "platforms": {
+    "mp": {
+      "tagName": "ad-custom"
+    }
+  }
+}

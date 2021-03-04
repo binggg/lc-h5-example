@@ -1,0 +1,11 @@
+{
+  "title": "Camera",
+  "desc": "相机组件",
+  "category": "媒体组件",
+  "categoryOrder": 200,
+  "platforms": {
+    "mp": {
+      "tagName": "camera"
+    }
+  }
+}

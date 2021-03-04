@@ -1,0 +1,37 @@
+
+/**
+     * 可以 在全局style，或者页面的style中使用.mixins()
+     *  .a {
+          color: #111;
+          .mixins();
+        }
+
+        .b {
+          color: red;
+          .mixins(red);
+        }
+     * （友情提示：不建议theme中书写具体的类样式， 或者不带括号的mixin，会导致代码重复编译 ）
+     **/
+/**
+     * 可以使用theme中定义的 mixin 和 定义变量
+     **/
+.lcap-tabbar {
+  border-top: 0.03571rem solid #eee;
+  z-index: 10;
+}
+.userMediaItem.lcap-media .lcap-media__right .lcap-media__title {
+  font-size: 1.42857rem !important;
+}
+.userMediaItem.lcap-media .lcap-media__right .lcap-media__subtitle {
+  margin-left: 0.53571rem !important;
+  padding: 0.35714rem 0.53571rem 0.17857rem !important;
+  line-height: 1 !important;
+  font-style: italic;
+}
+.userMediaItem.lcap-media .lcap-media__right .lcap-media__content_container {
+  color: #888888;
+  font-size: 0.71429rem;
+}
+.lcap-item__description:empty {
+  display: none;
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Uploader",
+  "desc": "上传组件",
+  "category": "表单组件",
+  "platforms": {
+    "mp": {
+      "tagName": "custom-upload",
+      "path": "component/gUploader/index"
+    }
+  }
+}

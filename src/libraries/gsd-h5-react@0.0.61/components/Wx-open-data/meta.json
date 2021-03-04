@@ -1,0 +1,11 @@
+{
+  "title": "open-data",
+  "desc": "微信用于展示微信开放的数据组件",
+  "category": "开放能力",
+  "categoryOrder": 300,
+  "platforms": {
+    "mp": {
+      "tagName": "open-data"
+    }
+  }
+}

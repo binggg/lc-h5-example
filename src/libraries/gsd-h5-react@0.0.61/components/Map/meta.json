@@ -1,0 +1,11 @@
+{
+  "title": "Map",
+  "desc": "地图组件",
+  "category": "地图",
+  "categoryOrder": 500,
+  "platforms": {
+    "mp": {
+      "tagName": "map"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Checkbox",
+  "desc": "多选项目",
+  "category": "表单组件",
+  "componentOrder": 750,
+  "platforms": {
+    "mp": {
+      "tagName": "checkbox"
+    }
+  }
+}

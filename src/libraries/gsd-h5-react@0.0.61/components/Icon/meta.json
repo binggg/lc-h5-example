@@ -1,0 +1,10 @@
+{
+  "title": "Icon",
+  "desc": "图标组件",
+  "category": "基础内容",
+  "platforms": {
+    "mp": {
+      "tagName": "icon"
+    }
+  }
+}

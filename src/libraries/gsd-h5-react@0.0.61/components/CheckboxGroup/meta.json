@@ -1,0 +1,11 @@
+{
+  "title": "CheckboxGroup",
+  "desc": "多项选择器",
+  "category": "表单组件",
+  "componentOrder": 750,
+  "platforms": {
+    "mp": {
+      "tagName": "checkbox-group"
+    }
+  }
+}

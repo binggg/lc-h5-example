@@ -1,0 +1,42 @@
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem:host {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem.lcap-tabbar-item {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  font-size: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem.lcap-tabbar-item .lcap-tabbar-item--circle {
+  border-radius: 50%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem.lcap-tabbar-item .lcap-tabbar-item__badge:empty {
+  display: none;
+}
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem.lcap-tabbar-item .lcap-tabbar-item__title {
+  line-height: 1;
+  margin-top: 0.35714rem;
+}
+.wa-comp-CLOUDBASE_STANDARD-TabBarItem.lcap-tabbar-item .lcap-tabbar-item__underline {
+  position: absolute;
+  left: 50%;
+  transform: translate3d(-50%, 0, 0);
+  bottom: 0;
+  width: 100%;
+  max-width: 2.85714rem;
+  border-bottom-width: 0.14286rem;
+  border-bottom-style: solid;
+}

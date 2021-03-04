@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/Scroll-View</title>
+    <defs>
+        <polygon id="path-1" points="0 -1.09147691e-12 40 0 40 24 0 24"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon/Scroll-View" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形备份-183" x="0" y="0" width="70" height="48"></rect>
+            <g id="编组-40" transform="translate(11.000000, 15.000000)">
+                <use id="矩形备份-103" stroke="#BCBFC2" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4,4" xlink:href="#path-1"></use>
+                <path d="M58.5,11.5 L58.5,12.5 L35.5,12.5 L35.5,11.5 L58.5,11.5 Z" id="矩形备份-60" stroke="#BCBFC2" transform="translate(47.000000, 12.000000) rotate(-270.000000) translate(-47.000000, -12.000000) "></path>
+                <polygon id="矩形备份-61" fill="#292D33" transform="translate(47.000000, 6.000000) rotate(-270.000000) translate(-47.000000, -6.000000) " points="41 5 53 5 53 7 41 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

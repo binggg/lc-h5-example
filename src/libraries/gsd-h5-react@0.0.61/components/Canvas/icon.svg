@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>canvas 画布</title>
+    <desc>Created with Sketch.</desc>
+    <g id="canvas-画布" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#1D7FFD" x="5" y="5" width="90" height="90"></rect>
+        <rect id="矩形" fill="#FFFFFF" x="11" y="11" width="78" height="78"></rect>
+        <rect id="矩形" fill="#C8D2DE" opacity="0.973702567" x="11" y="22" width="78" height="1"></rect>
+        <rect id="矩形备份" fill="#C8D2DE" opacity="0.973702567" x="11" y="33" width="78" height="1"></rect>
+        <rect id="矩形备份-2" fill="#C8D2DE" opacity="0.973702567" x="11" y="44" width="78" height="1"></rect>
+        <rect id="矩形备份-3" fill="#C8D2DE" opacity="0.973702567" x="11" y="55" width="78" height="1"></rect>
+        <rect id="矩形备份-4" fill="#C8D2DE" opacity="0.973702567" x="11" y="66" width="78" height="1"></rect>
+        <rect id="矩形备份-5" fill="#C8D2DE" opacity="0.973702567" x="11" y="77" width="78" height="1"></rect>
+        <rect id="矩形" fill="#C8D2DE" opacity="0.973702567" x="22" y="11" width="1" height="78"></rect>
+        <rect id="矩形备份-6" fill="#C8D2DE" opacity="0.973702567" x="33" y="11" width="1" height="78"></rect>
+        <rect id="矩形备份-7" fill="#C8D2DE" opacity="0.973702567" x="44" y="11" width="1" height="78"></rect>
+        <rect id="矩形备份-8" fill="#C8D2DE" opacity="0.973702567" x="55" y="11" width="1" height="78"></rect>
+        <rect id="矩形备份-9" fill="#C8D2DE" opacity="0.973702567" x="66" y="11" width="1" height="78"></rect>
+        <rect id="矩形备份-10" fill="#C8D2DE" opacity="0.973702567" x="77" y="11" width="1" height="78"></rect>
+    </g>
+</svg>

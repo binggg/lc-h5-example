@@ -1,0 +1,24 @@
+
+
+    @example-primary-color: blue;
+    // 混用 ( Mixin )
+    /**
+     * 可以 在全局style，或者页面的style中使用.mixins()
+     *  .a {
+          color: #111;
+          .mixins();
+        }
+
+        .b {
+          color: red;
+          .mixins(red);
+        }
+     * （友情提示：不建议theme中书写具体的类样式， 或者不带括号的mixin，会导致代码重复编译 ）
+     **/
+    .mixins(@color: red) {
+      display:block;
+      padding: 40px;
+      background: @color;
+      text-decoration:none;
+    }
+  

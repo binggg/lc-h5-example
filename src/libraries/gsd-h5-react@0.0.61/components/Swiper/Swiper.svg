@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/Swiper</title>
+    <g id="icon/Swiper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形备份-181" x="0" y="0" width="70" height="48"></rect>
+            <g id="编组-42" transform="translate(11.000000, 15.000000)">
+                <path d="M47.5,0.5 L47.5,23.5 L0.5,23.5 L0.5,0.5 L47.5,0.5 Z" id="矩形备份-104" stroke="#BCBFC2"></path>
+                <circle id="椭圆形备份-5" fill="#292D33" cx="16" cy="16" r="3"></circle>
+                <circle id="椭圆形备份-6" stroke="#BCBFC2" cx="24" cy="16" r="2.5"></circle>
+                <circle id="椭圆形备份-7" stroke="#BCBFC2" cx="32" cy="16" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

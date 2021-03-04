@@ -1,0 +1,10 @@
+{
+  "title": "cover-image",
+  "desc": "微信覆盖在原生组件之上的图片视图组件",
+  "category": "视图容器",
+  "platforms": {
+    "mp": {
+      "tagName": "cover-image"
+    }
+  }
+}

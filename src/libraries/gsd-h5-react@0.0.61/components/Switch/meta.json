@@ -1,0 +1,17 @@
+{
+  "title": "Switch",
+  "desc": "开关组件",
+  "category": "表单组件",
+  "componentOrder": 500,
+  "inputProps": {
+    "checked": {
+      "changeEvent": "change",
+      "valueFromEvent": "event.detail.value"
+    }
+  },
+  "platforms": {
+    "mp": {
+      "tagName": "switch"
+    }
+  }
+}

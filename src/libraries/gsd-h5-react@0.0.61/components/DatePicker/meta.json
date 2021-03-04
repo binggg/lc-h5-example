@@ -1,0 +1,18 @@
+{
+  "title": "DatePicker",
+  "desc": "日期选择器组件",
+  "category": "表单组件",
+  "componentOrder": 800,
+  "inputProps": {
+    "value": {
+      "changeEvent": "change",
+      "valueFromEvent": "event.detail.value"
+    }
+  },
+  "platforms": {
+    "mp": {
+      "tagName": "picker"
+    }
+  },
+  "mustEmptyStyle": true
+}

@@ -1,0 +1,11 @@
+{
+  "title": "navigation-bar",
+  "desc": "页面导航条配置节点",
+  "category": "导航栏",
+  "categoryOrder": 300,
+  "platforms": {
+    "mp": {
+      "tagName": "navigation-bar"
+    }
+  }
+}

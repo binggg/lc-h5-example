@@ -1,0 +1,10 @@
+{
+  "title": "official-account",
+  "desc": "微信公众号关注组件",
+  "category": "开放能力",
+  "platforms": {
+    "mp": {
+      "tagName": "official-account"
+    }
+  }
+}

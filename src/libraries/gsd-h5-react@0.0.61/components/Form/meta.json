@@ -1,0 +1,11 @@
+{
+  "title": "Form",
+  "desc": "表单",
+  "category": "表单组件",
+  "componentOrder": 900,
+  "platforms": {
+    "mp": {
+      "tagName": "form"
+    }
+  }
+}

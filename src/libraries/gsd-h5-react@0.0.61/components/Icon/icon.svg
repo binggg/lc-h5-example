@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon/图标</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-31" transform="translate(18.000000, 18.000000)">
+            <g id="圆形" transform="translate(0.000000, 0.000000)">
+                <g id="组_178-2">
+                    <g id="矩形_1476-2">
+                        <rect id="矩形" x="0" y="0" width="64" height="64"></rect>
+                        <rect id="矩形" stroke="#C8D2DE" x="0.666666667" y="0.666666667" width="62.6666667" height="62.6666667"></rect>
+                    </g>
+                    <line x1="32" y1="0.666666667" x2="32" y2="63.3333333" id="直线_36-2" stroke="#C8D2DE"></line>
+                    <line x1="40" y1="0.666666667" x2="40" y2="63.3333333" id="直线_43-2" stroke="#C8D2DE"></line>
+                    <line x1="24" y1="0.666666667" x2="24" y2="63.3333333" id="直线_42-2" stroke="#C8D2DE"></line>
+                    <line x1="32.1166667" y1="0.323333333" x2="32.1166667" y2="63.6766667" id="直线_39-2" stroke="#C8D2DE" transform="translate(32.116667, 32.000000) rotate(90.000000) translate(-32.116667, -32.000000) "></line>
+                    <line x1="32.1166667" y1="8.32333333" x2="32.1166667" y2="71.6766667" id="直线_45-2" stroke="#C8D2DE" transform="translate(32.116667, 40.000000) rotate(90.000000) translate(-32.116667, -40.000000) "></line>
+                    <line x1="32.1166667" y1="-7.67666667" x2="32.1166667" y2="55.6766667" id="直线_44-2" stroke="#C8D2DE" transform="translate(32.116667, 24.000000) rotate(90.000000) translate(-32.116667, -24.000000) "></line>
+                    <g id="矩形_1477-2" transform="translate(8.000000, 8.000000)">
+                        <rect id="矩形" x="0" y="0" width="48" height="48" rx="4"></rect>
+                        <rect id="矩形" stroke="#C8D2DE" x="0.666666667" y="0.666666667" width="46.6666667" height="46.6666667" rx="3.5"></rect>
+                    </g>
+                    <g id="矩形_1478-2" transform="translate(5.333333, 10.666667)">
+                        <rect id="矩形" x="0" y="0" width="53.3333333" height="42.6666667" rx="4"></rect>
+                        <rect id="矩形" stroke="#C8D2DE" x="0.666666667" y="0.666666667" width="52" height="41.3333333" rx="3.5"></rect>
+                    </g>
+                    <g id="矩形_1479-2" transform="translate(32.166667, 31.666667) rotate(-90.000000) translate(-32.166667, -31.666667) translate(5.166667, 10.166667)">
+                        <rect id="矩形" x="0" y="0" width="53.3333333" height="42.6666667" rx="4"></rect>
+                        <rect id="矩形" stroke="#C8D2DE" x="0.666666667" y="0.666666667" width="52" height="41.3333333" rx="3.5"></rect>
+                    </g>
+                    <g id="椭圆_246-2" transform="translate(5.333333, 5.333333)">
+                        <circle id="椭圆形" cx="26.6666667" cy="26.6666667" r="26.6666667"></circle>
+                        <circle id="椭圆形" stroke="#C8D2DE" cx="26.6666667" cy="26.6666667" r="26"></circle>
+                    </g>
+                    <line x1="0.666666667" y1="63.3333333" x2="63.3333333" y2="0.666666667" id="直线_46-2" stroke="#C8D2DE"></line>
+                    <line x1="0.666666667" y1="0.666666667" x2="63.3333333" y2="63.3333333" id="直线_47-2" stroke="#C8D2DE"></line>
+                </g>
+                <g id="矩形_1480-2" opacity="0.5" transform="translate(5.333333, 5.333333)">
+                    <rect id="矩形" fill="#1D7FFD" fill-rule="nonzero" x="0" y="0" width="53.3333333" height="53.3333333" rx="26.6666667"></rect>
+                    <rect id="矩形" stroke="#1D7FFD" x="0.666666667" y="0.666666667" width="52" height="52" rx="26"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

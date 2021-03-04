@@ -1,0 +1,10 @@
+{
+  "title": "Swiper",
+  "desc": "轮播图组件",
+  "category": "视图容器",
+  "platforms": {
+    "mp": {
+      "tagName": "swiper"
+    }
+  }
+}

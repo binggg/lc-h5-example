@@ -1,0 +1,11 @@
+{
+  "title": "Navigator",
+  "desc": "页面链接",
+  "category": "导航",
+  "platforms": {
+    "mp": {
+      "tagName": "custom-canvas",
+      "path": "component/navigator/index"
+    }
+  }
+}

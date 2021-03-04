@@ -1,0 +1,110 @@
+.wa-comp-CLOUDBASE_STANDARD-RadioItem .commonText {
+  font-size: 1.14286rem;
+  line-height: 1.60714rem;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem .secondaryText {
+  font-size: 1rem;
+  line-height: 1.42857rem;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio {
+  position: relative;
+  width: 100%;
+  padding: 1.07143rem 0;
+  display: inline-block;
+  font-size: 1.14286rem;
+  line-height: 1.60714rem;
+  color: #1A1B1F;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .zw-radio-container {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .label {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon {
+  display: inline-block;
+  width: 1.57143rem;
+  height: 1.57143rem;
+  flex-shrink: 0;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-item {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.07143rem solid #ccc;
+  box-sizing: border-box;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-checked {
+  border-color: #2e82f9;
+  background-color: #2e82f9;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-disabled {
+  border-color: #c0d4ee;
+  background-color: #c0d4ee;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-uncheck {
+  border-color: #ccc;
+  background-color: #FAFAFA;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-checked::after,
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-icon-disabled::after {
+  position: absolute;
+  content: ' ';
+  display: block;
+  left: 0;
+  top: 0;
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  background: #fff;
+  transform: translate(50%, 50%);
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-text {
+  margin-left: 0.42857rem;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-text .label {
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+  letter-spacing: 0;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio .check-text .desc {
+  font-size: 1rem;
+  line-height: 1.42857rem;
+  display: block;
+  margin-top: 0.10714rem;
+  color: #999999;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio-container-line::after {
+  height: 1PX;
+  width: 100%;
+  transform: scaleY(0.5);
+  left: 0;
+  right: 0;
+  content: '';
+  position: absolute;
+  background-color: #EBEBEB;
+  bottom: 0;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio_disabled .check-icon-checked {
+  border-color: transparent;
+  background-color: rgba(0, 3, 56, 0.08);
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio_disabled .check-icon-checked:after {
+  background-color: #C0C5CA;
+}
+.wa-comp-CLOUDBASE_STANDARD-RadioItem.zw-radio_disabled .check-icon-uncheck {
+  border-color: transparent;
+  background-color: rgba(0, 3, 56, 0.08);
+}

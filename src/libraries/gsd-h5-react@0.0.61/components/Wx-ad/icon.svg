@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ad Banner 广告</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ad-Banner-广告" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" stroke="#C8D2DE" stroke-width="0.5" fill="#FFFFFF" x="5.25" y="29.25" width="89.5" height="41.5" rx="1.5"></rect>
+        <text id="Banner" font-family="Impact" font-size="14" font-style="condensed" font-weight="700" fill="#6F7B89">
+            <tspan x="29.7016602" y="55">Banner </tspan>
+        </text>
+        <circle id="椭圆形" fill="#C8D2DE" cx="44" cy="65" r="2"></circle>
+        <circle id="椭圆形备份" fill="#C8D2DE" cx="50" cy="65" r="2"></circle>
+        <circle id="椭圆形备份-2" fill="#C8D2DE" cx="56" cy="65" r="2"></circle>
+    </g>
+</svg>

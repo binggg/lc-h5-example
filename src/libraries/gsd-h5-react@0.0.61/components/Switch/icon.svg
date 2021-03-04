@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>switch开关组件</title>
+    <desc>Created with Sketch.</desc>
+    <g id="switch开关组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="开关－开" transform="translate(25.000000, 35.000000)">
+            <rect id="Green-Background" fill="#1D7FFD" x="0" y="0" width="51" height="30" rx="15"></rect>
+            <circle id="Knob" fill="#FFFFFF" cx="36" cy="15" r="12"></circle>
+        </g>
+    </g>
+</svg>

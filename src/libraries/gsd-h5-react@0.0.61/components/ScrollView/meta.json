@@ -1,0 +1,10 @@
+{
+  "title": "ScrollView",
+  "desc": "可滚动视图区域组件",
+  "category": "视图容器",
+  "platforms": {
+    "mp": {
+      "tagName": "scroll-view"
+    }
+  }
+}

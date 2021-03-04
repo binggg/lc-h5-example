@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>audio音频</title>
+    <desc>Created with Sketch.</desc>
+    <g id="audio音频" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(5.000000, 37.000000)">
+            <rect id="矩形" stroke="#C8D2DE" stroke-width="0.5" fill="#FFFFFF" x="0.25" y="0.25" width="89.5" height="25.5" rx="1.5"></rect>
+            <g id="编组备份-2" transform="translate(5.000000, 4.000000)">
+                <text id="此时此刻" font-family="PingFangSC-Regular, PingFang SC" font-size="7" font-weight="normal" fill="#000000">
+                    <tspan x="23" y="8">此时此刻</tspan>
+                </text>
+                <text id="许巍" font-family="PingFangSC-Regular, PingFang SC" font-size="4" font-weight="normal" fill="#000000">
+                    <tspan x="23" y="14">许巍</tspan>
+                </text>
+                <rect id="矩形" fill="#1D7FFD" fill-rule="nonzero" x="0" y="0" width="18" height="18" rx="9"></rect>
+                <path d="M9.28481286,4.9366388 L12.6623119,10.7866388 C12.7451546,10.9301266 12.6959921,11.1136037 12.5525043,11.1964464 C12.5068986,11.2227769 12.4551653,11.2366388 12.4025043,11.2366388 L5.64750617,11.2366388 C5.48182074,11.2366388 5.34750617,11.1023242 5.34750617,10.9366388 C5.34750617,10.8839778 5.36136805,10.8322446 5.38769855,10.7866388 L8.76519762,4.9366388 C8.84804033,4.79315102 9.03151745,4.74398847 9.17500524,4.82683118 C9.220611,4.85316168 9.25848236,4.89103304 9.28481286,4.9366388 Z" id="多边形" fill="#FFFFFF" transform="translate(9.025005, 8.986639) scale(-1, 1) rotate(-90.000000) translate(-9.025005, -8.986639) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "title": "Progress",
+  "desc": "进度条",
+  "category": "基础内容",
+  "platforms": {
+    "mp": {
+      "tagName": "progress"
+    }
+  }
+}

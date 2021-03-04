@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="48px" viewBox="0 0 70 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/Textarea</title>
+    <g id="icon/Textarea" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-62">
+            <rect id="矩形备份-146" x="0" y="0" width="70" height="48"></rect>
+            <g id="编组-14" transform="translate(13.000000, 15.000000)">
+                <path d="M43.5,0.5 L43.5,23.5 L0.5,23.5 L0.5,0.5 L43.5,0.5 Z" id="矩形备份-125" stroke="#BCBFC2"></path>
+                <path d="M8.6545183,4 L12.2839966,14.3064761 L11.1948876,14.3064761 L10.198,11.366 L6.102,11.366 L5.10680914,14.3064761 L4,14.3064761 L7.64909709,4 L8.6545183,4 Z M8.15084839,5.31829378 L6.44,10.366 L9.86,10.366 L8.15084839,5.31829378 Z" id="形状结合备份-5" fill="#292D33" fill-rule="nonzero"></path>
+                <path d="M39,17 L39,18 L33,18 L33,17 L39,17 Z M31,17 L31,18 L28,18 L28,17 L31,17 Z M26,17 L26,18 L16,18 L16,17 L26,17 Z M21,14 L21,15 L16,15 L16,14 L21,14 Z M34,14 L34,15 L23,15 L23,14 L34,14 Z M39,14 L39,15 L36,15 L36,14 L39,14 Z M27,9 L27,11 L16,11 L16,9 L27,9 Z" id="形状结合备份-6" fill="#292D33"></path>
+            </g>
+        </g>
+    </g>
+</svg>

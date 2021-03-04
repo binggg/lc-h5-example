@@ -1,0 +1,10 @@
+{
+  "title": "Slider",
+  "desc": "滑块",
+  "category": "表单组件",
+  "platforms": {
+    "mp": {
+      "tagName": "slider"
+    }
+  }
+}
