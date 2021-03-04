@@ -1,4 +1,0 @@
-<view name="{{name}}" class="g-upload" bindtap="chooseFile">
-  <view class="g-upload-btn">选择文件</view>
-  <view class="g-upload-content">{{ value && value.length? value.length + '个文件':"未选择任何文件" }}</view>
-</view>

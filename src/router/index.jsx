@@ -11,8 +11,8 @@ import { history, generateBrowserHistory } from "utils/history";
 console.log(React);
 
 import "app/mountAppApis";
-import Pageindex from "pages/index/index";
-import Pagegraph from "pages/graph/index";
+// import Pageindex from "pages/index/index";
+// import Pagegraph from "pages/graph/index";
 // import Pageuser from "pages/user/index";
 // import PagegraphDetail from "pages/graphDetail/index";
 // import Pageabout from "pages/about/index";
@@ -29,8 +29,8 @@ export default () => {
       <Router history={history}>
         <Switch>
           <Redirect from="/" exact to="/index" />
-          <Route path="/index" component={Pageindex} />
-          <Route path="/graph" component={Pagegraph} />
+          {/* <Route path="/index" component={Pageindex} /> */}
+          {/* <Route path="/graph" component={Pagegraph} /> */}
           {/* <Route path="/user" component={Pageuser}/>
 <Route path="/graphDetail" component={PagegraphDetail}/>
 <Route path="/about" component={Pageabout}/>
@@ -49,7 +49,7 @@ export default () => {
       >
         <Switch>
           <Redirect from="/" exact to="/index" />
-          <Route path="/index" component={Pageindex} />
+          {/* <Route path="/index" component={Pageindex} />
           <Route path="/graph" component={Pagegraph} />
           <Route path="/user" component={Pageuser} />
           <Route path="/graphDetail" component={PagegraphDetail} />
@@ -58,7 +58,7 @@ export default () => {
           <Route path="/classification" component={Pageclassification} />
           <Route path="/invacations" component={Pageinvacations} />
           <Route path="/favorites" component={Pagefavorites} />
-          <Route path="/category" component={Pagecategory} />
+          <Route path="/category" component={Pagecategory} /> */}
         </Switch>
       </Router>
     );
